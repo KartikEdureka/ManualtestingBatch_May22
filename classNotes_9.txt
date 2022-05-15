@@ -1,0 +1,102 @@
+% Complete = (Number of test cases passed/Total number of test cases)*100
+
+base metrics:
+- # of test cases executed
+-  Total number of test cases
+
+
+
+
+
+% complete = (# Passed TC/Total test case)*100
+
+% coverage = (# Executed/Total number of test cases)*100
+
+% passed = (# TC passed/Total execution)*100
+
+%
+
+
+
+
+
+# execution = P P P P P P P P P P P P F = 13
+
+Total execution = P P P P P P P P P P P P F F P = 15
+
+
+
+
+
+
+Testing = 10
+User = 10
+= 20
+
+10/20*100 =50%
+-------------------------------------------------------------
+
+Defect Severity Index will help us in deciding weather we want to go for release or not
+
+
+Blocker = 8
+Critical = 5
+Major = 3
+Minor = 2
+Trivial =1
+
+
+# Blocker = 2
+# Critical = 3
+# Major =1
+# Minor = 2
+# Trivial =1
+
+
+DSI= 4.33
+
+(2*8)+(3*5)+(1*3)+(2*2)+(1*1)/9=39/9= 4.33
+
+No release will happen as defect severity index is high
+
+
+
+DSI should be less than 2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
